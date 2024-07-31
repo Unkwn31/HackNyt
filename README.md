@@ -5,10 +5,10 @@
 
 
 # Project Name
-Long Description about project. This project do that. This project is awesome...
+Coming Soon.....
 ## Team members
-1. [Name 1](https://github.com/TH-Activities/saturday-hack-night-template)
-2. [Name 2](https://github.com/TH-Activities/saturday-hack-night-template)
+1. [Aneeja55](https://github.com/Aneeja55)
+2. [Anaya05Wilson](https://github.com/Anaya05Wilson)
 ## Link to product walkthrough
 [link to video](Link Here)
 ## How it Works ?
@@ -17,6 +17,6 @@ Long Description about project. This project do that. This project is awesome...
 ## Libraries used
 Library Name - Version
 ## How to configure
-Instructions for setting up project
+Under Development.....
 ## How to Run
-Instructions for running
+Under Development.....
