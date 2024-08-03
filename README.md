@@ -5,18 +5,19 @@
 
 
 # Project Name
-Coming Soon.....
+Git-Repo-Compare
 ## Team members
 1. [Aneeja55](https://github.com/Aneeja55)
 2. [Anaya05Wilson](https://github.com/Anaya05Wilson)
 ## Link to product walkthrough
 [link to video](Link Here)
 ## How it Works ?
-1. Explaining the working of project
-2. Embed video of project demo
+Fetch data for both repositories.
+Display comparison metrics side by side.
+Include a search feature to enter repository names
 ## Libraries used
 Library Name - Version
 ## How to configure
 Under Development.....
 ## How to Run
-Under Development.....
+Give two repository link to compare in owner/repositroy format
