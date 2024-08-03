@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Repository Comparison</title>
+</head>
+<body>
+  <h1>Comparison of <%= repo1.full_name %> and <%= repo2.full_name %></h1>
+  <table border="1">
+    <tr>
+      <th>Metric</th>
+      <th><%= repo1.full_name %></th>
+      <th><%= repo2.full_name %></th>
+    </tr>
+    <tr>
+      <td>Stars</td>
+      <td><%= repo1.stargazers_count %></td>
+      <td><%= repo2.stargazers_count %></td>
+    </tr>
+    <tr>
+      <td>Forks</td>
+      <td><%= repo1.forks_count %></td>
+      <td><%= repo2.forks_count %></td>
+    </tr>
+    <tr>
+      <td>Open Issues</td>
+      <td><%= repo1.open_issues_count %></td>
+      <td><%= repo2.open_issues_count %></td>
+    </tr>
+    <tr>
+      <td>Last Commit Date</td>
+      <td><%= repo1.pushed_at %></td>
+      <td><%= repo2.pushed_at %></td>
+    </tr>
+  </table>
+  <a href="/">Compare another repository</a>
+</body>
+</html>
